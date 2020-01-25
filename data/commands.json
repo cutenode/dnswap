@@ -1,0 +1,15 @@
+{
+  "root": "networksetup",
+  "set": "-setdnsservers",
+  "get": "-getdnsservers",
+  "wifi": "Wi-Fi",
+  "cloudflare": {
+    "first": "1.1.1.1",
+    "second": "1.0.0.1"
+  },
+  "google": {
+    "first": "8.8.8.8",
+    "second": "8.8.4.4"
+  },
+  "empty": "Empty"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dnswap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "bin/cli.js",
+  "keywords": [],
+  "author": "Tierney Cyren <hello@bnb.im>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.1.0"
+  }
+}
